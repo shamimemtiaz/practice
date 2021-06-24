@@ -11,3 +11,4 @@ function Call_MyName() {
     echo "My name is imti!";
 }
 Call_MyName();
+echo "Emti"!
